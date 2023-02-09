@@ -1,3 +1,7 @@
 
 node_modules/url/.util 2.js.icloud
 node_modules/
+.vscode/
+node_modules/.cache/
+dist/ 
+!node_modules/ngx-mydatepicker/dist/  
